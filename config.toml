@@ -1,3 +1,4 @@
 baseurl = "https://sprky.co"
 title = "sprky.co"
 
+publishDir = "docs"
