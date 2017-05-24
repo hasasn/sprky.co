@@ -1,6 +1,5 @@
 baseurl = "https://sprky.co"
 title = "sprky.co"
-publishDir = "docs"
 theme = "vec"
 languageCode = "en-us"
 paginate = 5
