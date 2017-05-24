@@ -1,4 +1,28 @@
 baseurl = "https://sprky.co"
 title = "sprky.co"
-
 publishDir = "docs"
+theme = "vec"
+languageCode = "en-us"
+paginate = 5
+# Enable comments by entering your Disqus shortname
+#disqusShortname = "Your Disqus shortname"
+
+# Enable analytics by entering your Google Analytics tracking ID
+#googleAnalytics = "Your Google Analytics tracking code"
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "whoami"
+    weight = 0
+    url = "/dywood"
+[params]
+  Keywords = "appsec"
+  Description = "Application Security Rants"
+  
+  Avatar = "img/logo.png"
+  SelfIntro = "Professional Technology Critic" 
+  Email = "codyrswood@gmail.com"
+  
+  GithubID = "hasasn"
+  TwitterID = "sprkyco"
+  LinkedInID = "woodcody"
