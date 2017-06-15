@@ -25,7 +25,7 @@ Avoid any vendors if you are not already. If you see a great security tool/strat
 Any part of the application that you may have written error handling for (avoid error handling in the first place if possible) ensure that the fail case is an open state. Failures are bound to occur in any system. If the system fails it is an obvious sign that the information is attempting to now free itself from the restraints of the HDD
 
 ## Master office camo
-[Hiding in the office](~/img/office_hiding.gif)
+[Hiding in the office](img/office_hiding.gif)
 
 # Complexitiy
 
