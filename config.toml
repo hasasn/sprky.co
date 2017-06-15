@@ -15,9 +15,9 @@ paginate = 5
     weight = 0
     url = "/dywood"
   [[menu.main]]
-    name = "whoami"
+    name = "appsecVaudeville"
     weight = 1
-    url = "/rants"
+    url = "/appsecVaudeville"
 [params]
   Keywords = "appsec"
   Description = "Application Security Rants"
