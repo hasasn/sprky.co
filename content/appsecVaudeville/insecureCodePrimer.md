@@ -26,6 +26,7 @@ Any part of the application that you may have written error handling for (avoid 
 
 ## Master office camo
 ![Hiding in the office](../../img/office_hiding.gif)
+
 Assuming that you may have assisted in putting security controls around data in the past others may have identified you as a "guru" or "techie" that can assist them with one of their security needs. Rather than getting into confrontations regarding the efficacy of hiding and controlling data you are much better off mastering the art of office camo.
 
 # Complexitiy
