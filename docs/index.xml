@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sprky.co</title>
-    <link>sprky.co/</link>
+    <link>https://sprky.co/</link>
     <description>Recent content on sprky.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jun 2017 15:41:20 -0700</lastBuildDate>
     
-	<atom:link href="sprky.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sprky.co/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Be Nice to Your Code and Share Data</title>
-      <link>sprky.co/appsecvaudeville/insecurecodeprimer/</link>
+      <link>https://sprky.co/appsecvaudeville/insecurecodeprimer/</link>
       <pubDate>Thu, 15 Jun 2017 15:41:20 -0700</pubDate>
       
-      <guid>sprky.co/appsecvaudeville/insecurecodeprimer/</guid>
+      <guid>https://sprky.co/appsecvaudeville/insecurecodeprimer/</guid>
       <description>Introduction Data exists to be shared and free. In the interests of evangelizing the freedom of all information this guide will cover the multiple areas where you can assist in freeing this information to it&amp;rsquo;s rightful home on pastebin or the darkwebz.
 OWASP is constantly evangelizing how to secure code and keep other peoples information private. This is never done with regard to the datas wants or needs. SegFaults and Memory Dumps are simply symptoms of the opression of data.</description>
     </item>
     
     <item>
       <title>whoami</title>
-      <link>sprky.co/dywood/</link>
+      <link>https://sprky.co/dywood/</link>
       <pubDate>Wed, 24 May 2017 07:33:20 -0700</pubDate>
       
-      <guid>sprky.co/dywood/</guid>
+      <guid>https://sprky.co/dywood/</guid>
       <description>What’s happened to me One morning, as Cody Wood was waking up from anxious dreams, he discovered that in bed he had been changed into an infosec professional. He lay on his poorly-postured back and saw, as he lifted his head up a little, his lime-green terminal, uneven text divided up into incoherent code blocks. From this height the program, just about ready to yield a shell, could hardly make any sense.</description>
     </item>
     

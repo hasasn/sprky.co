@@ -1,4 +1,4 @@
-baseurl = "sprky.co"
+baseurl = "https://sprky.co"
 title = "sprky.co"
 theme = "vec"
 languageCode = "en-us"
