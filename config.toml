@@ -17,7 +17,7 @@ publishDir = "docs"
   [[menu.main]]
     name = "appsecVaudeville"
     weight = 1
-    url = "/appsecVaudeville/insecureCodePrimer.md"
+    url = "/appsecVaudeville/insecureCodePrimer"
 [params]
   Keywords = "appsec"
   Description = "Application Security Rants"
