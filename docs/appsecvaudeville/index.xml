@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AppsecVaudevilles on sprky.co</title>
+    <link>sprky.co/appsecvaudeville/</link>
+    <description>Recent content in AppsecVaudevilles on sprky.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2017 15:41:20 -0700</lastBuildDate>
+    
+	<atom:link href="sprky.co/appsecvaudeville/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Be Nice to Your Code and Share Data</title>
+      <link>sprky.co/appsecvaudeville/insecurecodeprimer/</link>
+      <pubDate>Thu, 15 Jun 2017 15:41:20 -0700</pubDate>
+      
+      <guid>sprky.co/appsecvaudeville/insecurecodeprimer/</guid>
+      <description>Introduction Data exists to be shared and free. In the interests of evangelizing the freedom of all information this guide will cover the multiple areas where you can assist in freeing this information to it&amp;rsquo;s rightful home on pastebin or the darkwebz.
+OWASP is constantly evangelizing how to secure code and keep other peoples information private. This is never done with regard to the datas wants or needs. SegFaults and Memory Dumps are simply symptoms of the opression of data.</description>
+    </item>
+    
+  </channel>
+</rss>
