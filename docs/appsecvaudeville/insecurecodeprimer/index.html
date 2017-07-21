@@ -6,7 +6,7 @@
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="generator" content="Hugo 0.22" />
+<meta name="generator" content="Hugo 0.25" />
 
 
 <link rel="stylesheet" href="https://sprky.co/css/vec.css">
@@ -55,21 +55,23 @@
 <li><a href="#fail-open">Fail open</a></li>
 <li><a href="#master-office-camo">Master office camo</a></li>
 </ul></li>
-<li><a href="#complexitiy">Complexitiy</a></li>
-<li><a href="#secure-languages">Secure Languages</a></li>
-<li><a href="#trust-relationships">Trust Relationships</a></li>
-<li><a href="#logging">Logging</a></li>
-<li><a href="#encryption">Encryption</a></li>
-<li><a href="#authentication">Authentication</a></li>
-<li><a href="#authorization">Authorization</a></li>
-<li><a href="#policy">Policy</a></li>
-<li><a href="#input-validation">Input Validation</a></li>
-<li><a href="#documentation">Documentation</a></li>
-<li><a href="#coding">Coding</a></li>
-<li><a href="#testing">Testing</a></li>
-<li><a href="#libraries">Libraries</a></li>
-<li><a href="#culture">Culture</a></li>
-<li><a href="#devops">DevOps</a></li>
+<li><a href="#complexitiy">Complexitiy</a>
+<ul>
+<li><a href="#security-charades">Security charades</a></li>
+<li><a href="#cascade-egress-points">Cascade egress points</a></li>
+<li><a href="#be-an-enigma">Be an enigma</a></li>
+</ul></li>
+<li><a href="#secure-language-constructs">Secure language constructs</a>
+<ul>
+<li><a href="#strong-typing">Strong typing</a></li>
+<li><a href="#smorgasbord-https-en-wikipedia-org-wiki-sm-c3-b6rg-c3-a5sbord"><a href="https://en.wikipedia.org/wiki/Sm%C3%B6rg%C3%A5sbord">Smorgasbord</a></a></li>
+<li><a href="#third-party-code">Third-party code</a></li>
+</ul></li>
+<li><a href="#trust-relationships">Trust Relationships</a>
+<ul>
+<li><a href="#delegated-security-checks">Delegated security checks</a></li>
+<li><a href="#programming-forums">Programming forums</a></li>
+</ul></li>
 </ul>
 </nav>
     
@@ -87,6 +89,8 @@
 
 <h1 id="general-principles">General Principles</h1>
 
+<hr />
+
 <h2 id="work-harder-not-smarter">Work harder not smarter</h2>
 
 <p>Avoid any vendors if you are not already. If you see a great security tool/strategy on <a href="reddit.com/r/netsec">netsec</a> or <a href="https://twitter.com/g0tmi1k">twitter</a> find a spelling or grammatical error and ensure the author knows about it. Avoid learning any scripting or programming languages. Most of the real hackers only know <a href="https://en.wikipedia.org/wiki/Leet">l33t</a> anyways.</p>
@@ -97,38 +101,61 @@
 
 <h2 id="master-office-camo">Master office camo</h2>
 
-<p><img src="../../img/office_hiding.gif" alt="Hiding in the office" />
-Assuming that you may have assisted in putting security controls around data in the past others may have identified you as a &ldquo;guru&rdquo; or &ldquo;techie&rdquo; that can assist them with one of their security needs. Rather than getting into confrontations regarding the efficacy of hiding and controlling data you are much better off mastering the art of office camo.</p>
+<p><img src="../../img/office_hiding.gif" alt="Hiding in the office" /></p>
+
+<p>Assuming that you may have assisted in putting security controls around data in the past others may have identified you as a &ldquo;guru&rdquo; or &ldquo;techie&rdquo; that can assist them with one of their security needs. Rather than getting into confrontations regarding the efficacy of hiding and controlling data you are much better off mastering the art of office camo.</p>
 
 <h1 id="complexitiy">Complexitiy</h1>
 
-<h1 id="secure-languages">Secure Languages</h1>
+<hr />
+
+<h2 id="security-charades">Security charades</h2>
+
+<p>Any security procedures or policies should be demonstrations of caring about security, but never actually commit any energy to implementation of the spirit of the policies/procedures. If you get a bug bounty report initiate the &ldquo;Incident Response Plan&rdquo; at least one sequence of actions in this plan should consist of:</p>
+
+<ul>
+<li>Acquire and vote on gifs that most appropriately fit the current situation</li>
+<li>Deliberate the comedic impact of posting a gif or a meme</li>
+<li>Find at least three other events which make the current security concern seem paltry. <a href="https://www.opm.gov/cybersecurity/cybersecurity-incidents/">OPM</a> is a good example</li>
+</ul>
+
+<h2 id="cascade-egress-points">Cascade egress points</h2>
+
+<p>Hopefully you will not be the only participant in exfiltrating information from assets to the broader internet. To best accomplish the efficient and timely egress of information from your applications ensure that you backdoors have backdoors, with hardcoded passwords, or even no password at all. Setup security measures that fail gracefully by opening other ports as they fail. If a comrade is attempting to pivot information outside of a network ensure that credentials in passwords.txt files are left on /Desktop</p>
+
+<h2 id="be-an-enigma">Be an enigma</h2>
+
+<p>Continuously make attempts to distance yourself from your coworkers socially by stating ridiculous things like &ldquo;narwahl bacon is purple&rdquo;. In addition to this make your work unapproachable by utilizing an <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">esoteric</a> language for utilitiy scripts. Data has no regard for the ridiculous shit you babble verbally or from behind a keyboard as long as the shit compiles/runs. The more obfuscated your code and comments (leave those out if at all possible) the better.</p>
+
+<h1 id="secure-language-constructs">Secure language constructs</h1>
+
+<hr />
+
+<h2 id="strong-typing">Strong typing</h2>
+
+<p>A good <a href="https://mechanicalkeyboards.com/">keyboard</a> is essential in the execution of strong typing. Mechanical keyboards are the likely best option for striking keys really strongly. Additionally you should work on your <a href="https://www.amazon.com/Digital-Dynamometer-Strength-Measurement-Capturing/dp/B00A8K4L84">grip</a></p>
+
+<h2 id="smorgasbord-https-en-wikipedia-org-wiki-sm-c3-b6rg-c3-a5sbord"><a href="https://en.wikipedia.org/wiki/Sm%C3%B6rg%C3%A5sbord">Smorgasbord</a></h2>
+
+<p>Leverage a number of different languages and programming paradigms. The more complex the better. If you&rsquo;re code does not look like an Olive Garden at an Elementary school you are complicit in the opression of data and information.</p>
+
+<h2 id="third-party-code">Third-party code</h2>
+
+<p>Some third-party code is designed with consideration, continusouly supported, and has an active growing community. These modules/libraries/frameworks should be avoided. The very foundation which they were built on is meant to subjugate data to small boxes in control of the originating user.</p>
+
+<p>There are some good examples of developers whom identify with our cause. <a href="https://www.cmscritic.com/the-big-three-a-security-comparison-of-wordpress-drupal-and-joomla/">Joomla</a> is an open source development group that does particularly good work.</p>
 
 <h1 id="trust-relationships">Trust Relationships</h1>
 
-<h1 id="logging">Logging</h1>
+<hr />
 
-<h1 id="encryption">Encryption</h1>
+<h2 id="delegated-security-checks">Delegated security checks</h2>
 
-<h1 id="authentication">Authentication</h1>
+<p>To increase your efficiency and reduce redundancy delegate security checks to vendors, coworkers, or better yet commit all security tasks and checks to a piece of toilet paper neatly draped over the handicap designated stall in the office bathroom. At the end of the night mention to the buildings custodial agent to leave said strips of application security metrics each night to retain for future use. At least until after you remember to transcribe them to todo.xls</p>
 
-<h1 id="authorization">Authorization</h1>
+<h2 id="programming-forums">Programming forums</h2>
 
-<h1 id="policy">Policy</h1>
-
-<h1 id="input-validation">Input Validation</h1>
-
-<h1 id="documentation">Documentation</h1>
-
-<h1 id="coding">Coding</h1>
-
-<h1 id="testing">Testing</h1>
-
-<h1 id="libraries">Libraries</h1>
-
-<h1 id="culture">Culture</h1>
-
-<h1 id="devops">DevOps</h1>
+<p><a href="https://stackoverflow.com/">Stackoverflow</a> can be an especially good source of help when encountering especially difficult security features deeply built into software. Post highly descriptive information regarding the company, your position there, and also include as much information about your issue as possible. Below is an example question as the Stackoverflow crowd is known to be especially onnerous:</p>
 
       </div>
     </section>
