@@ -6,10 +6,19 @@
     <description>Recent content on sprky.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2017 15:41:20 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Mar 2018 07:33:20 -0700</lastBuildDate>
     
 	<atom:link href="https://sprky.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>talks</title>
+      <link>https://sprky.co/talks/</link>
+      <pubDate>Sun, 11 Mar 2018 07:33:20 -0700</pubDate>
+      
+      <guid>https://sprky.co/talks/</guid>
+      <description> </description>
+    </item>
     
     <item>
       <title>Be Nice to Your Code and Share Data</title>
