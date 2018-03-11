@@ -12,20 +12,25 @@ publishDir = "docs"
   # Shown in the side menu.
   [[menu.main]]
     name = "whoami"
-    weight = 0
+    weight = 1
     url = "/dywood"
+    [[menu.main]]
+    name = "talks"
+    weight =  2
+    url = "/talks"
   [[menu.main]]
     name = "appsecVaudeville"
-    weight = 1
+    weight = 3
     url = "/appsecVaudeville/insecureCodePrimer"
+  
 [params]
   Keywords = "appsec"
   Description = "Application Security Rants"
   
   Avatar = "img/logo.png"
   SelfIntro = "Professional Technology Critic"
-  Email = "codyrswood@gmail.com"
+  Email = "sprkyco@gmail.com"
   
-  GithubID = "hasasn"
+  GithubID = "sprkyco"
   TwitterID = "sprkyco"
   LinkedInID = "woodcody"
