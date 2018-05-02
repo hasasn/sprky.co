@@ -8,7 +8,7 @@ toc = false
 
 +++
 
-# Southern California Linux Expo 16x
+# [Southern California Linux Expo 16x](https://www.socallinuxexpo.org/scale/16x)
 
 [Not Your Server, but still your code.](https://youtu.be/nZzCIIW2-Is?t=12959)
 
@@ -16,7 +16,8 @@ toc = false
 
 Protect, Detect, and Respond: Application Security and Incident Response
 
-Other Panelists:
-William Dixon, Kroll
-Cassio Goldschmidt, OWASP
+Panelists:
+- William Dixon, Kroll
+- Cassio Goldschmidt, OWASP
+- Cody Wood, Signal Sciences
 
