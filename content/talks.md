@@ -7,4 +7,16 @@ title = "talks"
 toc = false
 
 +++
-<iframe src="//slides.com/sprkyco/not_your_server-6/embed?token=3Iq67v0o" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# Southern California Linux Expo 16x
+
+[Not Your Server, but still your code.](https://youtu.be/nZzCIIW2-Is?t=12959)
+
+# [EvolveSec Panel](https://www.meetup.com/EvolveSec-LA-Cyber-Security/events/249432929/)
+
+Protect, Detect, and Respond: Application Security and Incident Response
+
+Other Panelists:
+William Dixon, Kroll
+Cassio Goldschmidt, OWASP
+
