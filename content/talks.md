@@ -17,6 +17,7 @@ toc = false
 Protect, Detect, and Respond: Application Security and Incident Response
 
 Panelists:
+
 - William Dixon, Kroll
 - Cassio Goldschmidt, OWASP
 - Cody Wood, Signal Sciences
