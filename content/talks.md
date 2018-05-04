@@ -22,3 +22,6 @@ Panelists:
 - Cassio Goldschmidt, OWASP
 - Cody Wood, Signal Sciences
 
+# [ISSALA Summit X](https://www.issala.org/event/issa-la-summitx/)
+
+<iframe src="//slides.com/sprkyco/not_your_server-4-7/embed?token=J75KIXZs" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
