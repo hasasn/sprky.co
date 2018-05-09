@@ -24,4 +24,8 @@ Panelists:
 
 # [ISSALA Summit X](https://www.issala.org/event/issa-la-summitx/)
 
-<iframe src="//slides.com/sprkyco/not_your_server-4-7/embed?token=J75KIXZs" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/sprkyco/not_your_server-4-7/embed?token=J75KIXZs" width="800" height="700" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# [CSA-LA](https://www.meetup.com/LASC-CSA/events/ftdtpnyxhbmb/)
+
+<iframe src="//slides.com/sprkyco/not_your_server-6-8/embed?token=49ucyYcg" width="800" height="700" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
