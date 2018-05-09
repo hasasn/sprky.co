@@ -10,7 +10,7 @@ toc = false
 
 # [Southern California Linux Expo 16x](https://www.socallinuxexpo.org/scale/16x)
 
-[Not Your Server, but still your code.](https://youtu.be/nZzCIIW2-Is?t=12959)
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/watch?v=nZzCIIW2-Is&feature=youtu.be&t=12959" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 # [EvolveSec Panel](https://www.meetup.com/EvolveSec-LA-Cyber-Security/events/249432929/)
 
