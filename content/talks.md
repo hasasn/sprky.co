@@ -32,7 +32,7 @@ Panelists:
 Serious attention is being paid to Serverless and Functions as a Service (FaaS) through open source offerings like OpenWhisk and paid offerings from AWS Lambda, Google Cloud Functions and Azure Compute. The growth of serverless adoption has been exponential for some time now, enough so to warrant some introspection from a security practitioner's perspective. This talk examines the shift from traditional security to cloud and serverless security models.
 
 
-# [OWASP San Diego](https://www.meetup.com/Open-Web-Application-Security-Project-San-Diego-OWASP-SD/events/mhwbhlyxhbwb/)
+# [I Accept Serverless, I’m Not Sure Whether It Accepts Me? @OWASP San Diego 05/17/2019](https://www.meetup.com/Open-Web-Application-Security-Project-San-Diego-OWASP-SD/events/mhwbhlyxhbwb/)
 
 <iframe src="//slides.com/sprkyco/not_your_server-6-8/embed?token=49ucyYcg" width="800" height="700" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
