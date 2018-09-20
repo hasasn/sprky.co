@@ -27,7 +27,10 @@ Panelists:
 
 <iframe src="//slides.com/sprkyco/not_your_server-4-7/embed?token=J75KIXZs" width="800" height="700" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# [CSA-LA](https://www.meetup.com/LASC-CSA/events/ftdtpnyxhbmb/)
+# [I Accept Serverless, I’m Not Sure Whether It Accepts Me? @CSA-LA - 05/09/2019](https://www.meetup.com/LASC-CSA/events/ftdtpnyxhbmb/)
+
+Serious attention is being paid to Serverless and Functions as a Service (FaaS) through open source offerings like OpenWhisk and paid offerings from AWS Lambda, Google Cloud Functions and Azure Compute. The growth of serverless adoption has been exponential for some time now, enough so to warrant some introspection from a security practitioner's perspective. This talk examines the shift from traditional security to cloud and serverless security models.
+
 
 # [OWASP San Diego](https://www.meetup.com/Open-Web-Application-Security-Project-San-Diego-OWASP-SD/events/mhwbhlyxhbwb/)
 
