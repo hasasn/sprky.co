@@ -28,6 +28,9 @@ Panelists:
 <iframe src="//slides.com/sprkyco/not_your_server-4-7/embed?token=J75KIXZs" width="800" height="700" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # [CSA-LA](https://www.meetup.com/LASC-CSA/events/ftdtpnyxhbmb/)
+
 # [OWASP San Diego](https://www.meetup.com/Open-Web-Application-Security-Project-San-Diego-OWASP-SD/events/mhwbhlyxhbwb/)
 
 <iframe src="//slides.com/sprkyco/not_your_server-6-8/embed?token=49ucyYcg" width="800" height="700" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+# [Why You Should Stop Caring About A Server That Isn’t Yours Anymore @ServerlessLA - 09/19/2019](https://slides.com/sprkyco/deck-13-15?token=YYTvV5QA)
